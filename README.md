@@ -1,4 +1,4 @@
-# stream-reader-5a9f89
+# stream-reader-3c6bff
 
 A Go stream reader utility.
 
